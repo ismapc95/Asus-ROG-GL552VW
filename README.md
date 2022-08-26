@@ -1,2 +1,2 @@
-# Asus-ROG-GL552VW
-Asus-ROG-GL552VW-Catalina
+# Asus-ROG-GL552VW-DM149-Big Sur
+Asus-ROG-GL552VW-DM149-Big Sur
