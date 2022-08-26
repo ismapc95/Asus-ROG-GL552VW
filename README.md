@@ -1,0 +1,2 @@
+# Asus-ROG-GL552VW
+Asus-ROG-GL552VW-Catalina
