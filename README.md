@@ -1,5 +1,5 @@
 # Asus-ROG-GL552VW-DM149-Big Sur
-## Made to learn Xcode and Swift
+
 ### WORKING
 - :white_check_mark: Bluetooth
   - :white_check_mark: Keychron K4
@@ -14,3 +14,6 @@
 - :x: Trackpad
 - :x: Keyboard lights
 - :x: iServices
+
+![Screen Shot 2022-09-12 at 13 29 34](https://user-images.githubusercontent.com/16596537/189642793-9026b2c6-6d4d-44bb-a4a8-ec6c36f0860b.png)
+#### Made to learn Xcode and Swift
